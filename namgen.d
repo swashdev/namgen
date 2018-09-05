@@ -47,7 +47,7 @@ int main( string[] args )
 /////////////////////////////////
 // Instructions for compiling: //
 /////////////////////////////////
-// dmd namgen.d -of=namgen.exe
+// dmd namgen.d -of=namgen
 
 ///////////////////////////////
 // Instructions for running: //

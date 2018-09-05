@@ -12,3 +12,4 @@ namgen-test-*
 *.o
 *.obj
 *.lst
+*~
