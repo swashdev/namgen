@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+namgen.so
+namgen.dylib
+namgen.dll
+namgen.a
+namgen.lib
+namgen-test-*
+*.exe
+*.o
+*.obj
+*.lst
